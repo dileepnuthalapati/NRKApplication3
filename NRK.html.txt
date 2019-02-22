@@ -6,6 +6,7 @@
 
 <h1>About reach the goal</h1>
 <p>This website is created for deploying in azure cloud using github repositories</p>
+<h2> This application access from south central US</h2>
 
 </body>
 </html
